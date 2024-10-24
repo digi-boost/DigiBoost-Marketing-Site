@@ -123,10 +123,10 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster Growth
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Unlock your business potential with DigiBoost Marketing Agency. Our
+          tailored strategies ensure exceptional results, keeping you ahead of
+          the competition. Don’t miss out on your chance for rapid growth!
         image:
           url: /images/icon3.svg
           altText: Featured icon three
