@@ -3,10 +3,12 @@ title: Case study 2
 slug: case-study-2
 date: '2022-07-16'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  Dr. Sarah Khan of Bright Smile Dental Clinic in Abu Dhabi faced fierce
+  competition in the dentistry sector. With the help of DigiBoost Marketing
+  Agency, her practice implemented a targeted Google Ads strategy focused on
+  localized services. Within three months, Dr. Khan saw a 150% increase in new
+  patient appointments and improved online visibility, establishing her clinic
+  as a trusted choice for dental care in the region.
 featuredImage:
   url: /images/img-placeholder.svg
   altText: Case study 2
