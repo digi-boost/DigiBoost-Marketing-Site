@@ -9,7 +9,7 @@ sections:
         that deliver real results.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Don’t Let Your Competitors Take All the Leads
     text: >
       **DigiBoost Marketing Agency** helps you reach potential customers who are
       actively searching for your services. With our tailored Google Ads
