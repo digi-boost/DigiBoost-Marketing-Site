@@ -4,18 +4,23 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: >-
+        Bring your business to the forefront with targeted Google Ads campaigns
+        that deliver real results.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Don’t Let Your Competitors Take All the Leads
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      **DigiBoost Marketing Agency** helps you reach potential customers who are
+      actively searching for your services. With our tailored Google Ads
+      strategies, you can increase your visibility, drive more traffic, and
+      boost sales – all without wasting your budget. Our proven methods ensure
+      that every ad dollar works harder for you, turning clicks into
+      conversions.
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'https://wa.me/923429633988'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -24,7 +29,7 @@ sections:
         type: Button
       - label: See Tutorials
         altText: ''
-        url: /
+        url: 'https://www.youtube.com/@technicalgullo/videos'
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -32,8 +37,9 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      altText: >-
+        Bring your business to the forefront with targeted Google Ads campaigns
+        that deliver real results.
       elementId: ''
       type: ImageBlock
     badge:
@@ -59,15 +65,15 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Your Success Awaits
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Business Boost
+        subtitle: Key Advantages
+        text: >
+          With DigiBoost Marketing Agency, you’ll enjoy increased visibility,
+          cost-effective advertising, and tailored support to optimize your
+          campaigns for better results.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -90,12 +96,12 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: 3-5x Growth
+        subtitle: Transform Your Business
+        text: >
+          Ready to grow your business? DigiBoost Marketing Agency offers
+          tailored strategies for rapid growth. Don’t miss your chance to
+          elevate your brand and achieve remarkable results.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -116,11 +122,11 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Faster Growth
+        text: >
+          Unlock your business potential with DigiBoost Marketing Agency. Our
+          tailored strategies ensure exceptional results, keeping you ahead of
+          the competition. Don’t miss out on your chance for rapid growth!
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -141,7 +147,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: 'https://wa.me/923429633988'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -149,7 +155,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Achieve Your Goals
       color: text-primary
       styles:
         self:
@@ -199,6 +205,10 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+    badge:
+      type: Badge
+      label: Your Success Awaits
+      color: text-primary
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -435,7 +445,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +475,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +535,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +565,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -646,8 +660,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image

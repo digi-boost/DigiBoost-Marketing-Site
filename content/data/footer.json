@@ -1,10 +1,10 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/Black Minimal Motivation Quote LinkedIn Banner (1).png"
     },
-    "text": "A description of your brand",
+    "text": "**DigiBoost Marketing Agency** specializes in **Google Ads** and data-driven digital marketing solutions. We help businesses grow by delivering targeted, high-conversion ad campaigns that maximize ROI. Let us boost your online presence and drive results that matter.\n",
     "primaryLinks": {
         "title": "Product",
         "links": [
@@ -61,28 +61,23 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://github.com/netlify",
-            "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/in/gulbadeen/",
             "icon": "linkedin",
             "type": "Social"
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "services.digiboost@gmail.com",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "https://www.youtube.com/@technicalgullo",
+            "icon": "youtube",
+            "elementId": ""
         }
     ],
     "legalLinks": [
@@ -103,7 +98,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "copyrightText": "Powered by [DigiBoost Agency](https://digiboostmarketing.netlify.app/)\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
