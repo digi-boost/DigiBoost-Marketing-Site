@@ -75,7 +75,7 @@
         {
             "label": "Email",
             "altText": "Sign up",
-            "url": "/",
+            "url": "servi",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
