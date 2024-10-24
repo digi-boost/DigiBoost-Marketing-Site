@@ -37,7 +37,9 @@ sections:
         elementId: ''
         type: Link
     media:
-      altText: Unblock your team boost your time to production preview
+      altText: >-
+        Bring your business to the forefront with targeted Google Ads campaigns
+        that deliver real results.
       elementId: ''
       type: ImageBlock
     badge:
