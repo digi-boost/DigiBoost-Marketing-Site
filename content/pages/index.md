@@ -68,7 +68,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: Unlock Your Business Success
+        title: Business Boost
         subtitle: Discover the Advantages of Our Google Ads Services
         text: >
           At DigiBoost Marketing Agency, we are dedicated to helping you achieve
