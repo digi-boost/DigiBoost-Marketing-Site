@@ -2,7 +2,7 @@
 type: PostLayout
 title: "Maximize Your ROI with Data-Driven Google Ads Solutions \U0001F4CA"
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
-date: '2023-01-18'
+date: '2024-10-24'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
