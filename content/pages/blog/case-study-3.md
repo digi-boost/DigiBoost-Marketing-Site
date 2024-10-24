@@ -1,15 +1,17 @@
 ---
 title: Case study 3
 slug: case-study-3
-date: '2021-11-18'
+date: '2023-07-09'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  Tech Innovators LLC, an IT solutions provider based in Sharjah, faced
+  challenges in reaching its target audience effectively. With DigiBoost
+  Marketing Agency’s tailored Google Ads strategy, the company saw a remarkable
+  175% increase in website traffic and a 120% rise in qualified leads within
+  three months. This strategic approach not only enhanced brand visibility but
+  also established Tech Innovators as a trusted name in the competitive IT
+  industry of the UAE.
 featuredImage:
-  url: >-
-    /images/img-placeholder.svg
+  url: /images/quality_restoration_20240805094559921.jpg
   altText: Case study 3
   styles:
     self:
@@ -29,12 +31,9 @@ bottomSections:
   - items:
       - title: About Company
         tagline: This is the tagline
-        subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+        subtitle: About DigiBoost Marketing Agency
         image:
-          url: /images/telus-logo.svg
+          url: /images/Monochromatic Profile Circle Badge LinkedIn Banner.png
           altText: Company logo
           styles:
             self:
@@ -56,6 +55,31 @@ bottomSections:
             borderRadius: none
             flexDirection: row
         type: FeaturedItem
+        text: >
+          At DigiBoost Marketing Agency, we specialize in empowering businesses
+          to achieve their full potential through tailored digital marketing
+          strategies. With a focus on Google Ads, we deliver targeted campaigns
+          that drive traffic, increase visibility, and boost conversions. Our
+          team of experts works closely with clients to understand their unique
+          needs and create customized solutions that deliver measurable results.
+
+
+          We pride ourselves on our commitment to excellence, innovation, and
+          customer satisfaction. Whether you’re a small business or an
+          established enterprise, DigiBoost Marketing Agency is dedicated to
+          helping you elevate your brand and succeed in the competitive digital
+          landscape. Join us and experience the difference of a results-driven
+          marketing approach!
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://wa.me/923429633988'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     variant: small-list
     colors: bg-light-fg-dark
     styles:
@@ -88,19 +112,33 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor.
-
-Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
-
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum.
-
-> Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+> ### Tech Innovators LLC
 >
-> _By Laura Gómez - Product Marketing Manager_
+> **Client Name:** Sarah Ahmed
+> **Location:** Sharjah, UAE
+> **Industry:** Information Technology
+>
+> **About Company:**
+> Tech Innovators LLC is a leading IT solutions provider specializing in software development, cloud services, and cybersecurity solutions for small and medium-sized enterprises (SMEs) in the UAE. With a mission to empower businesses through technology, Tech Innovators strives to deliver innovative and tailored IT solutions.
+>
+> **Challenge:**
+> Despite having a robust service offering, Tech Innovators struggled to reach its target audience effectively. The company faced challenges with brand visibility in a competitive market, leading to stagnant lead generation and missed growth opportunities.
+>
+> **Solution:**
+> DigiBoost Marketing Agency crafted a comprehensive digital marketing strategy focusing on Google Ads campaigns targeted at SMEs in Sharjah and surrounding areas. The campaign included:
+>
+> *   **Keyword Optimization:** Identifying high-intent keywords related to IT services.
+>
+> *   **Geo-targeting:** Focusing on SMEs in Sharjah, Dubai, and Abu Dhabi.
+>
+> *   **Ad Copy Creation:** Developing compelling ad copies highlighting Tech Innovators' unique selling points.
+>
+> **Results:**
+> Within three months, Tech Innovators LLC experienced:
+>
+> *   A 175% increase in website traffic.
+>
+> *   A 120% rise in qualified leads.
+>
+> *   Enhanced brand awareness, establishing Tech Innovators as a go-to IT service provider in the region.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
-
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
-
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
