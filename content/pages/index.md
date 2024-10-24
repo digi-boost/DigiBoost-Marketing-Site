@@ -71,8 +71,9 @@ sections:
         title: Business Boost
         subtitle: Key Advantages
         text: >
-          At DigiBoost Marketing Agency, we are dedicated to helping you achieve
-          your goals. Here’s what you can expect when you partner with us:
+          With DigiBoost Marketing Agency, you’ll enjoy increased visibility,
+          cost-effective advertising, and tailored support to optimize your
+          campaigns for better results.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
