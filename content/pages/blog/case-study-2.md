@@ -1,14 +1,16 @@
 ---
 title: Case study 2
 slug: case-study-2
-date: '2022-02-16'
+date: '2022-07-16'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  Dr. Sarah Khan of Bright Smile Dental Clinic in Abu Dhabi faced fierce
+  competition in the dentistry sector. With the help of DigiBoost Marketing
+  Agency, her practice implemented a targeted Google Ads strategy focused on
+  localized services. Within three months, Dr. Khan saw a 150% increase in new
+  patient appointments and improved online visibility, establishing her clinic
+  as a trusted choice for dental care in the region.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/quality_restoration_20240805095219449.jpg
   altText: Case study 2
   styles:
     self:
@@ -28,12 +30,9 @@ bottomSections:
   - items:
       - title: About Company
         tagline: This is the tagline
-        subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+        subtitle: About DigiBoost Marketing Agency
         image:
-          url: /images/telus-logo.svg
+          url: /images/Monochromatic Profile Circle Badge LinkedIn Banner.png
           altText: Company logo
           styles:
             self:
@@ -55,6 +54,31 @@ bottomSections:
             borderRadius: none
             flexDirection: row
         type: FeaturedItem
+        text: >
+          At DigiBoost Marketing Agency, we specialize in empowering businesses
+          to achieve their full potential through tailored digital marketing
+          strategies. With a focus on Google Ads, we deliver targeted campaigns
+          that drive traffic, increase visibility, and boost conversions. Our
+          team of experts works closely with clients to understand their unique
+          needs and create customized solutions that deliver measurable results.
+
+
+          We pride ourselves on our commitment to excellence, innovation, and
+          customer satisfaction. Whether you’re a small business or an
+          established enterprise, DigiBoost Marketing Agency is dedicated to
+          helping you elevate your brand and succeed in the competitive digital
+          landscape. Join us and experience the difference of a results-driven
+          marketing approach!
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://wa.me/923429633988'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     variant: small-list
     colors: bg-light-fg-dark
     styles:
@@ -87,17 +111,25 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
+### Bright Smile Dental Clinic
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+**Client Name:** Dr. Sarah Khan
+**Location:** Abu Dhabi, UAE
+**Industry:** Dentistry
 
-![](/images/img-placeholder.svg)
+**Challenge:**
+Dr. Sarah Khan sought to increase patient footfall and improve online visibility for her dental practice, Bright Smile Dental Clinic. She faced tough competition in a saturated market, making it essential to stand out and attract new patients effectively.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+**Solution:**
+DigiBoost Marketing Agency implemented a comprehensive Google Ads strategy, focusing on localized targeting for the Abu Dhabi area. We optimized her ad campaigns with specific keywords related to dental services, such as "cosmetic dentistry," "teeth whitening," and "family dental care."
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+**Results:**
 
-> Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices.
->
-> _By Gordon Red - Director of IT_
+*   **Increased Patient Appointments:** Achieved a 150% increase in new patient appointments within three months.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+*   **Enhanced Online Presence:** Improved visibility on Google search results, leading to a significant uptick in website traffic and inquiries.
+
+*   **Cost-Effective Advertising:** Reduced cost-per-click by 30%, maximizing ROI on ad spend.
+
+**Conclusion:**
+With targeted advertising and strategic keyword optimization, DigiBoost Marketing Agency successfully elevated Bright Smile Dental Clinic's online presence and helped Dr. Sarah Khan attract more patients, establishing her practice as a trusted choice in Abu Dhabi.
