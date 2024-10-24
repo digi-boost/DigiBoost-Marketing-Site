@@ -69,7 +69,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Business Boost
-        subtitle: Discover the Advantages of Our Google Ads Services
+        subtitle: Key Advantages
         text: >
           At DigiBoost Marketing Agency, we are dedicated to helping you achieve
           your goals. Here’s what you can expect when you partner with us:
