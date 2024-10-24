@@ -30,7 +30,7 @@ bottomSections:
         tagline: This is the tagline
         subtitle: About DigiBoost Marketing Agency
         image:
-          url: /images/telus-logo.svg
+          url: /images/Monochromatic Profile Circle Badge LinkedIn Banner.png
           altText: Company logo
           styles:
             self:
