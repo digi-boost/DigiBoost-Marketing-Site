@@ -29,7 +29,7 @@ sections:
         type: Button
       - label: See Tutorials
         altText: ''
-        url: /
+        url: 'https://www.youtube.com/@technicalgullo/videos'
         showIcon: true
         icon: arrowRight
         iconPosition: right
