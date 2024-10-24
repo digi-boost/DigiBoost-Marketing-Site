@@ -52,6 +52,21 @@ bottomSections:
             borderRadius: none
             flexDirection: row
         type: FeaturedItem
+        text: >
+          At DigiBoost Marketing Agency, we specialize in empowering businesses
+          to achieve their full potential through tailored digital marketing
+          strategies. With a focus on Google Ads, we deliver targeted campaigns
+          that drive traffic, increase visibility, and boost conversions. Our
+          team of experts works closely with clients to understand their unique
+          needs and create customized solutions that deliver measurable results.
+
+
+          We pride ourselves on our commitment to excellence, innovation, and
+          customer satisfaction. Whether you’re a small business or an
+          established enterprise, DigiBoost Marketing Agency is dedicated to
+          helping you elevate your brand and succeed in the competitive digital
+          landscape. Join us and experience the difference of a results-driven
+          marketing approach!
     variant: small-list
     colors: bg-light-fg-dark
     styles:
