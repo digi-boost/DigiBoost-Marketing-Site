@@ -37,7 +37,6 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Black Minimal Motivation Quote LinkedIn Banner (2).png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
