@@ -75,7 +75,7 @@
         {
             "label": "Contact Me",
             "altText": "Contact Me",
-            "url": "services.digiboost@gmail.com",
+            "url": "<a href=\"mailto:\">Contact Me</a>",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
