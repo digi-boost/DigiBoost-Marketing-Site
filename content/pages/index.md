@@ -99,10 +99,9 @@ sections:
       - title: 3-5x Growth
         subtitle: Transform Your Business
         text: >
-          Ready to scale your business? With DigiBoost Marketing Agency, you can
-          experience rapid growth through effective strategies tailored to your
-          needs. Don’t miss out on the opportunity to elevate your brand and
-          achieve outstanding results.
+          Ready to grow your business? DigiBoost Marketing Agency offers
+          tailored strategies for rapid growth. Don’t miss your chance to
+          elevate your brand and achieve remarkable results.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
