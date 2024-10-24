@@ -3,10 +3,13 @@ title: Case study 3
 slug: case-study-3
 date: '2023-07-09'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  Tech Innovators LLC, an IT solutions provider based in Sharjah, faced
+  challenges in reaching its target audience effectively. With DigiBoost
+  Marketing Agency’s tailored Google Ads strategy, the company saw a remarkable
+  175% increase in website traffic and a 120% rise in qualified leads within
+  three months. This strategic approach not only enhanced brand visibility but
+  also established Tech Innovators as a trusted name in the competitive IT
+  industry of the UAE.
 featuredImage:
   url: /images/quality_restoration_20240805094559921.jpg
   altText: Case study 3
