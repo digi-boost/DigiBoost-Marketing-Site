@@ -3,12 +3,14 @@ title: Case study 1
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  Ahmed, a plumbing service provider in Dubai, partnered with DigiBoost
+  Marketing Agency to enhance his online presence. By targeting specific
+  audiences in Dubai, Abu Dhabi, and Al Ain, Ahmed saw a remarkable 200%
+  increase in service inquiries within just two months. The strategic Google Ads
+  campaign not only boosted visibility but also positioned his business as a
+  leading choice in the plumbing industry.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/Untitled design.png
   altText: Case study 1
   styles:
     self:
