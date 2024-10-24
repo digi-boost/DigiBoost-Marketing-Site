@@ -74,7 +74,7 @@
     "secondaryLinks": [
         {
             "label": "Contact Me",
-            "altText": "Email",
+            "altText": "Contact Me",
             "url": "services.digiboost@gmail.com",
             "icon": "arrowRight",
             "iconPosition": "right",
