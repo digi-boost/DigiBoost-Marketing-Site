@@ -147,7 +147,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: wa.me/923429633988
+        url: 'https://wa.me/923429633988'
         showIcon: false
         icon: arrowRight
         iconPosition: right
