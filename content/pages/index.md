@@ -65,7 +65,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Your Success Awaits
     items:
       - type: FeaturedItem
         title: Business Boost
