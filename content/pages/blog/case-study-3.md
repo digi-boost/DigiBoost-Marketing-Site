@@ -67,6 +67,16 @@ bottomSections:
           helping you elevate your brand and succeed in the competitive digital
           landscape. Join us and experience the difference of a results-driven
           marketing approach!
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://wa.me/923429633988'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     variant: small-list
     colors: bg-light-fg-dark
     styles:
