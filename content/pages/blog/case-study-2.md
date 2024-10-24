@@ -10,7 +10,7 @@ excerpt: >-
   patient appointments and improved online visibility, establishing her clinic
   as a trusted choice for dental care in the region.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/quality_restoration_20240805095219449.jpg
   altText: Case study 2
   styles:
     self:
