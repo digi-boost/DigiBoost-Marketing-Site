@@ -71,6 +71,13 @@
             "url": "services.digiboost@gmail.com",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "YouTube icon",
+            "url": "https://www.youtube.com/@technicalgullo",
+            "icon": "youtube",
+            "elementId": ""
         }
     ],
     "legalLinks": [
