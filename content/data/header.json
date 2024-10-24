@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "WhatsApp",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
