@@ -74,7 +74,7 @@
     "secondaryLinks": [
         {
             "label": "Email",
-            "altText": "Sign up",
+            "altText": "Email",
             "url": "services.digiboost@gmail.com",
             "icon": "arrowRight",
             "iconPosition": "right",
