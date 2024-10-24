@@ -98,10 +98,11 @@ sections:
               borderRadius: x-large
       - title: 3-5x Growth
         subtitle: Transform Your Business
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Ready to scale your business? With DigiBoost Marketing Agency, you can
+          experience rapid growth through effective strategies tailored to your
+          needs. Don’t miss out on the opportunity to elevate your brand and
+          achieve outstanding results.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
